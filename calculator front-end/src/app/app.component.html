@@ -1,0 +1,57 @@
+<div id="main">
+  <h1>Calculator</h1>
+  <div class="container">
+    <div class="calculator">
+
+      <div class="display-part">
+        <div id="prev"> {{experession}} </div>
+        <div id="curr"> {{curr}} </div>
+      </div>
+
+      <div class="bottons-part">
+
+        <div class="row">
+          <button class="button operator" id="percent" (click)="unary_operator('%')" data-value="%">%</button>
+          <button class="button clear" (click)="clear_all()" data-value="CE">CE</button>
+          <button class="button clear" (click)="clear_all()" data-value="C">C</button>
+          <button class="button del" (click)="del()" data-value="CS">⌫</button>
+        </div>
+
+        <div class="row">
+          <button class="button fn" (click)="x_function('1/x')" data-value="1/x">1/x</button>
+          <button class="button fn" (click)="x_function('x2')" data-value="sqr">x²</button>
+          <button class="button fn" (click)="x_function('xr')" data-value="sqrt">√x</button>
+          <button class="button operator" (click)="binary_operator('div')" data-value="/">÷</button>
+        </div>
+
+        <div class="row">
+          <button class="button number" (click)="clickNumber('7')" data-value="7">7</button>
+          <button class="button number" (click)="clickNumber('8')" data-value="8">8</button>
+          <button class="button number" (click)="clickNumber('9')" data-value="9">9</button>
+          <button class="button operator" (click)="binary_operator('x')" data-value="*">×</button>
+        </div>
+
+        <div class="row">
+          <button class="button number" (click)="clickNumber('4')" data-value="4">4</button>
+          <button class="button number" (click)="clickNumber('5')" data-value="5">5</button>
+          <button class="button number" (click)="clickNumber('6')" data-value="6">6</button>
+          <button class="button operator" (click)="binary_operator('-')" data-value="-">−</button>
+        </div>
+
+        <div class="row">
+          <button class="button number" (click)="clickNumber('1')" data-value="1">1</button>
+          <button class="button number" (click)="clickNumber('2')" data-value="2">2</button>
+          <button class="button number" (click)="clickNumber('3')" data-value="3">3</button>
+          <button class="button operator" (click)="binary_operator('+')" data-value="+">+</button>
+        </div>
+
+        <div class="row">
+          <button class="button operator" id="pm" (click)="unary_operator('neg')" data-value="+-">+/-</button>
+          <button class="button number" (click)="clickNumber('0')" data-value="0">0</button>
+          <button class="button number" (click)="clickNumber('.')" data-value=".">.</button>
+          <button class="button equal" (click)="equal_operator()" data-value="=">=</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
