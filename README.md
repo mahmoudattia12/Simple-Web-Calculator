@@ -4,7 +4,7 @@
 - [Frameworks and technology used](#Frameworks-and-technology-used)
 - [How to run](#How-to-run)
 - [Snapshots of the UI](#Snapshots-of-the-UI)
-- [Demo Video for using the calculator](https://drive.google.com/file/d/1FXGkKzRRO6HW1XkwZRQa8_ci0vK_aydN/view?usp=sharing)
+- [Demo Video for using the calculator](https://drive.google.com/file/d/1CElpQwq8-VC1TnnXvR1ICo_vn4i2L7kP/view?usp=sharing)
 ---
 ## Frameworks and technology used:
 - For the frontend part (view part), we used HTML, CSS, and typescript throw the angular framework.
@@ -29,4 +29,4 @@
 ![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_071009.png?raw=true)
 ---
 ## Demo Video for using the calculator:
-- [link to the video](https://drive.google.com/file/d/1FXGkKzRRO6HW1XkwZRQa8_ci0vK_aydN/view?usp=sharing)
+- [link to the video](https://drive.google.com/file/d/1CElpQwq8-VC1TnnXvR1ICo_vn4i2L7kP/view?usp=sharing)
