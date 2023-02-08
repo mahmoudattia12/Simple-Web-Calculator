@@ -16,10 +16,20 @@
 - Open the spring file on spring boot using IntelliJ ide, there will be 3 classes in the package, run them on port 8082 or you can change the port from the project resources → application.properties if the 8082 port was already used in your device.
 #### Frontend part:
 - Open the angular project file using visual studio ide, then open the terminal of the ide, and write npm install in the terminal.
-- Then write “ng serve --open” in the terminal to open the project, on port “http://localhost:4200/”.
+- Then write “ng serve --open” in the terminal to open the project, on port “http://localhost:4200”.
 ---
 ## Snapshots of the UI:
-
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070030.png?raw=true)
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
 ---
 ## Demo Video for using the calculator:
 - [link to the video](https://drive.google.com/file/d/1sTzXK4XYjFNsEc8gUkKepFy88FILiUoJ/view?usp=sharing)
