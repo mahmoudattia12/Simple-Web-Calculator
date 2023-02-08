@@ -1,5 +1,5 @@
 # Simple Web Calculator
-## This is a web-based calculator similar to that of windows developed by Angular Framework and Spring Boot
+### This is a web-based calculator similar to that of windows developed by Angular Framework and Spring Boot
 ## Contents:
 - [Frameworks and technology used](#Frameworks-and-technology-used)
 - [How to run](#How-to-run)
