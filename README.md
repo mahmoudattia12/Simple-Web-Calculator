@@ -20,16 +20,13 @@
 ---
 ## Snapshots of the UI:
 ![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070030.png?raw=true)
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070302.png?raw=true)
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070341.png?raw=true)
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070402.png?raw=true)
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070444.png?raw=true)
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070503.png?raw=true)
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070526.png?raw=true)
+![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_071009.png?raw=true)
 ---
 ## Demo Video for using the calculator:
 - [link to the video](https://drive.google.com/file/d/1sTzXK4XYjFNsEc8gUkKepFy88FILiUoJ/view?usp=sharing)
