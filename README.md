@@ -19,7 +19,7 @@
 - Then write “ng serve --open” in the terminal to open the project, on port “http://localhost:4200”.
 ---
 ## Snapshots of the UI:
-![image](![Screenshot_20230208_070030](https://user-images.githubusercontent.com/96799025/217887242-e35acd53-522a-404d-8971-b707a175c7dd.png))
+![image](![Screenshot_20230208_070030](https://user-images.githubusercontent.com/96799025/217887657-61b0b77e-ab52-4c18-8ec3-c1a7a220b595.png))
 ![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070302.png?raw=true)
 ![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070341.png?raw=true)
 ![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070402.png?raw=true)
