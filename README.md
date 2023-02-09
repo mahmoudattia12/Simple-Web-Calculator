@@ -20,13 +20,13 @@
 ---
 ## Snapshots of the UI:
 ![image](https://user-images.githubusercontent.com/96799025/217887657-61b0b77e-ab52-4c18-8ec3-c1a7a220b595.png)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070302.png?raw=true)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070341.png?raw=true)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070402.png?raw=true)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070444.png?raw=true)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070503.png?raw=true)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_070526.png?raw=true)
-![image](https://github.com/mahmoudattia12/ScreenShots/blob/main/calculator/Screenshot_20230208_071009.png?raw=true)
+![image](https://user-images.githubusercontent.com/96799025/217888600-60bcd8aa-b220-456a-a20b-4c8a2512230d.png)
+![image](https://user-images.githubusercontent.com/96799025/217888692-fd8cee8e-f4a7-4746-8cde-2a7992430bef.png)
+![image](https://user-images.githubusercontent.com/96799025/217888815-34cfef5e-dc7e-4a93-b46a-d515e08d3f72.png)
+![image](https://user-images.githubusercontent.com/96799025/217888955-e029a616-6b69-40e6-982c-2970eeebcb33.png)
+![image](https://user-images.githubusercontent.com/96799025/217889067-8f4d4ac4-d2ac-43b7-8363-72fc9825b20f.png)
+![image](https://user-images.githubusercontent.com/96799025/217889169-1b5f435c-12e8-4436-baa0-0f7a56a55857.png)
+![image](https://user-images.githubusercontent.com/96799025/217889527-f133f1cd-184f-4279-b46d-2af922b0100d.png)
 ---
 ## Demo Video for using the calculator:
 - [link to the video](https://drive.google.com/file/d/1CElpQwq8-VC1TnnXvR1ICo_vn4i2L7kP/view?usp=sharing)
